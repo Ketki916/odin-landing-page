@@ -1,6 +1,6 @@
 # odin-landing-page
 
-Generic layout of a webpage using HTML and CSS.
+Generic webpage using HTML and CSS. The layout is arranged using flexbox.
 
 Includes header, empty image containers, a quote, and signup buttons
 
