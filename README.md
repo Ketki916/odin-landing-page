@@ -1,6 +1,6 @@
 # odin-landing-page
 
-Generic layout of a webpage.
+Generic layout of a webpage using HTML and CSS.
 
 Includes header, empty image containers, a quote, and signup buttons
 
